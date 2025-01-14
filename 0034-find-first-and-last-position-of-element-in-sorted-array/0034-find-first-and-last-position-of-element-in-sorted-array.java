@@ -18,6 +18,7 @@ class Solution {
                 end = mid - 1;
             }
         }
+        if(lft == -1) return new int[] {-1,-1}; //Better approach to skip second part if not present
         index[0] = lft;
         start = 0; end = nums.length-1;
         //right index search
