@@ -6,9 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Binary Search
 |  |
 | ------- |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
