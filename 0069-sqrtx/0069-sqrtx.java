@@ -1,17 +1,17 @@
 class Solution {
     public int mySqrt(int x) {
-        if (x == 0) return 0; 
-        int start = 1, end = x, answer = 0;
-        while (start <= end) {
-            int mid = start + (end - start) / 2;
-            long square = (long) mid * mid; 
-            if (square <= x) {
-                answer = mid; // 
-                start = mid + 1; 
-            } else {
-                end = mid - 1; 
+        int s = 0 , e = x;
+        int ans = 0;
+        while(s<=e){
+            int m = s+(e-s)/2;
+            long mSqr = (long)m*m;
+            if(mSqr == x) return m;
+            else if(mSqr>x){
+                e = m-1;
             }
+            else{ s = m+1;
+            ans = m;}
         }
-        return answer;
+        return ans;
     }
 }
