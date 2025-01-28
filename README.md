@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
@@ -39,12 +41,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0441-arranging-coins) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -62,4 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
