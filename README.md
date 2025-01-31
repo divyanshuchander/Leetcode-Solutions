@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1580-shuffle-the-array](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/1603-running-sum-of-1d-array) |
+| [1635-number-of-good-pairs](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0645-set-mismatch) |
+| [1635-number-of-good-pairs](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 ## Math
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0441-arranging-coins) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1635-number-of-good-pairs](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -102,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/1603-running-sum-of-1d-array) |
+## Counting
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 <!---LeetCode Topics End-->
