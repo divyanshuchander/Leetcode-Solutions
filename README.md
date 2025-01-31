@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1185-find-in-mountain-array](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/1185-find-in-mountain-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1580-shuffle-the-array](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
