@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0792-binary-search) |
+| [0861-flipping-an-image](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1185-find-in-mountain-array](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/1185-find-in-mountain-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0861-flipping-an-image](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0861-flipping-an-image) |
 | [1791-richest-customer-wealth](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/1791-richest-customer-wealth) |
 ## Interactive
 |  |
@@ -95,12 +97,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0861-flipping-an-image](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0861-flipping-an-image) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0645-set-mismatch) |
+| [0861-flipping-an-image](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0861-flipping-an-image) |
 ## Sorting
 |  |
 | ------- |
@@ -109,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0861-flipping-an-image](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0861-flipping-an-image) |
 | [2048-build-array-from-permutation](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
 ## Prefix Sum
