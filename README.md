@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/1646-kth-missing-positive-number) |
 | [1791-richest-customer-wealth](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/1791-richest-customer-wealth) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2048-build-array-from-permutation](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
 ## Binary Search
