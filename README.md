@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0861-flipping-an-image](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0861-flipping-an-image) |
 ## Bit Manipulation
