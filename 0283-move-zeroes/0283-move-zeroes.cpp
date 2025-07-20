@@ -1,20 +1,23 @@
 class Solution {
 public:
     void moveZeroes(vector<int>& nums) {
-        vector <int> nonZeroNumbers;
-        for(auto num : nums){
-            if(num!=0){
-                nonZeroNumbers.push_back(num);
+        // finding first 0
+        int j = -1;
+        int arrSize = nums.size();
+        for (int i = 0; i < arrSize; i++) {
+            if (nums[i] == 0) {
+                j = i;
+                break;
             }
         }
-        int i = 0;
-        for(auto num : nonZeroNumbers){
-            nums[i] = num;
-            i++;
-        }
-        while(i<nums.size()) {
-            nums[i] = 0;
-            i++;
+        if (j == -1)
+            return;
+
+        for (int i = j + 1; i < arrSize; i++) {
+            if (nums[i] != 0) {
+                swap(nums[j], nums[i]);
+                j++;
+            }
         }
     }
 };
