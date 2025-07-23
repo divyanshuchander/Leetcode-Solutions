@@ -4,19 +4,16 @@ public:
         vector<int> indices;
         unordered_map<int, int> eleIndex;
         int i = 0;
-        for(auto num : nums){
-            int remaining = target-num;
+        for(int i = 0; i<nums.size();i++){
+            int remaining = target-nums[i];
             if(eleIndex.find(remaining) != eleIndex.end()){
-                indices.push_back(i);
-                indices.push_back(eleIndex[remaining]);
-                break;
+                return {i , eleIndex[remaining]};
             }
             else{
-                eleIndex[num] = i;
-                i++;
+                eleIndex[nums[i]] = i;
             }
 
         }
-        return indices;
+        return {-1,-1};
     }
 };
