@@ -1,6 +1,8 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
+        //brute --> O(n^2)
+        //better would use hashing O(nlogn) in case of ordered map
         //Moore's Voting Algo
         int element;
         int count = 0;
