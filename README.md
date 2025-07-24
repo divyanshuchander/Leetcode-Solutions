@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2048-build-array-from-permutation](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0861-flipping-an-image](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0861-flipping-an-image) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0861-flipping-an-image) |
 | [2048-build-array-from-permutation](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Prefix Sum
 |  |
 | ------- |
