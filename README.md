@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0861-flipping-an-image](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0861-flipping-an-image) |
 | [1791-richest-customer-wealth](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/1791-richest-customer-wealth) |
