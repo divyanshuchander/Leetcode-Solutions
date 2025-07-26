@@ -1,23 +1,48 @@
 class Solution {
+    //Most optimal constant space solution
 public:
     void setZeroes(vector<vector<int>>& matrix) {
-        
-        vector<int> row(matrix.size());
-        vector<int> column(matrix[0].size());
+        bool isRowZero = false;
+        bool isColumnZero = false;
+        for (int j = 0; j < matrix[0].size(); j++) {
+            if (matrix[0][j] == 0) {
+                isRowZero = true;
+                break;
+            }
+        }
         for (int i = 0; i < matrix.size(); i++) {
-            for (int j = 0 ;j < matrix[i].size(); j++) {
+            if (matrix[i][0] == 0) {
+                isColumnZero = true;
+                break;
+            }
+        }
+
+        for (int i = 1; i < matrix.size(); i++) {
+            for (int j = 1; j < matrix[i].size(); j++) {
                 if (matrix[i][j] == 0) {
-                    row[i] = 1;
-                    column[j] = 1;
+                    matrix[0][j] = 0;
+                    matrix[i][0] = 0;
                 }
             }
         }
 
-        for (int i = 0; i < matrix.size(); i++) {
-            for (int j = 0; j < matrix[i].size(); j++) {
-                if (row[i] == 1 || column[j] == 1) {
+        for (int i = 1; i < matrix.size(); i++) {
+            for (int j = 1; j < matrix[i].size(); j++) {
+                if (matrix[0][j] == 0 || matrix[i][0] == 0) {
                     matrix[i][j] = 0;
                 }
+            }
+        }
+
+        if (isRowZero) {
+            for (int j = 0; j < matrix[0].size(); j++) {
+                matrix[0][j] = 0;
+            }
+        }
+
+        if (isColumnZero) {
+            for (int i = 0; i < matrix.size(); i++) {
+                matrix[i][0] = 0;
             }
         }
     }
