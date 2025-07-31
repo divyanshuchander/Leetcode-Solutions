@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1185-find-in-mountain-array](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/1185-find-in-mountain-array) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1580-shuffle-the-array](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/1603-running-sum-of-1d-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1185-find-in-mountain-array](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/1185-find-in-mountain-array) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/1646-kth-missing-positive-number) |
 ## Hash Table
