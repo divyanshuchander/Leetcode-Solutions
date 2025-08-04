@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [1078-remove-outermost-parentheses](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Dynamic Programming
 |  |
@@ -218,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/divyanshuchander/Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
