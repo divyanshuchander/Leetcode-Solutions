@@ -8,13 +8,12 @@
  */
 class Solution {
 public:
-    bool hasCycle(ListNode *head) {
-        unordered_map<ListNode*, int> visited;
-        ListNode* temp = head;
-        while(temp){
-            if(visited.find(temp) != visited.end()) return true;
-            else(visited[temp]++);
-            temp = temp->next;
+    bool hasCycle(ListNode *head) { //Optimal Tortoise Hare Approach
+        ListNode* fast = head , *slow = head;
+        while(fast && fast->next){
+            fast = fast->next->next;
+            slow = slow->next;
+            if(fast == slow) return true;
         }
         return false;
     }
