@@ -11,43 +11,31 @@
 class Solution {
 public:
     ListNode* deleteDuplicates(ListNode* head) {
-        if (!head || !head->next)
-            return head;
+        if (!head || !head->next) return head;
 
-        ListNode *answerNode = new ListNode(-1), *dTemp = answerNode;
+        ListNode dummy(-1);      // Dummy head for result list
+        ListNode* tail = &dummy; // Tail of result list
 
-        ListNode* i = head;
-        ListNode* j = head->next;
+        ListNode* curr = head;
+        while (curr) {
+            bool isDuplicate = false;
 
-        while (j && i) {
-            if (i->val != j->val) {
-                dTemp->next = i;
-                dTemp = dTemp->next;
-                i = j;
-                j = j->next;
+            // Skip all duplicates of curr
+            while (curr->next && curr->val == curr->next->val) {
+                isDuplicate = true;
+                curr = curr->next;
             }
 
-            else {
-                while (i && i->val == j->val) {
-                    i = i->next;
-                }
-                if (!i) {
-                    dTemp->next = nullptr;
-                    return answerNode->next;
-                } else {
-                    j = i->next;
-                    if (!j) {
-                        dTemp->next = i;
-                        dTemp->next->next = nullptr;
-                        return answerNode->next;
-                    }
-                }
+            if (!isDuplicate) {
+                // Attach unique node to result
+                tail->next = curr;
+                tail = tail->next;
             }
+
+            curr = curr->next; // Move to next candidate
         }
-        dTemp->next = i;
-        dTemp = dTemp->next;
 
-        dTemp->next = nullptr;
-        return answerNode->next;
+        tail->next = nullptr; // End result list
+        return dummy.next;
     }
 };
