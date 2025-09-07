@@ -1,34 +1,43 @@
-class MinStack {
-    stack<int>minVal;
-    stack<int> minStack;
+class MinStack { // implementing it using stack encoding
+private:
+    stack<long long> st;
+    long long currMin;
+
 public:
-    MinStack() {
-        
-    }
-    
+    MinStack() {}
+
     void push(int val) {
-        if(minStack.empty() || val<=minVal.top()) minVal.push(val);
-        minStack.push(val);        
+        if (st.empty()) {
+            currMin = val;
+            st.push(val);
+        } else if (val >= currMin)
+            st.push(val);
+        else {
+            long long markerVal = ((long long)2 * val) - currMin;
+            st.push(markerVal);
+            currMin = val;
+        }
     }
-    
+
     void pop() {
-       if(minStack.empty()) return;
-       if(minStack.top() == minVal.top()){
-        minStack.pop();
-        minVal.pop();
-       }
-       else{
-        minStack.pop();
-       }
+        long long tp = st.top();
+        st.pop();
+        if (tp >= currMin)
+            return;
+        if (tp < currMin) {
+            currMin = (long long)2 * currMin - tp;
+        }
     }
-    
+
     int top() {
-        return minStack.top();
+        long long tp = st.top();
+        if (tp >= currMin)
+            return tp;
+        else
+            return currMin;
     }
-    
-    int getMin() {
-        return minVal.top();
-    }
+
+    int getMin() { return currMin; }
 };
 
 /**
